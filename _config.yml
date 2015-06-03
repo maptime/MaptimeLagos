@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /lagos
 permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Meetup name
-  twitter: YourName
+  chapter: Maptime Lagos
+  twitter: MaptimeLagos
   #disqus: YOUR DISQUS USERNAME
